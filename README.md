@@ -40,6 +40,8 @@ Project management:
 
 ## Tech i'm learning
 * NoSQL databases: ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) 	
+* ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![HTMX](https://img.shields.io/badge/HTMX-E34F26?style=flat-square&logo=htmx5&logoColor=white)
 
 # Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/https://www.linkedin.com/in/jan-rokicki-4b648b198/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/jkerr0) 
